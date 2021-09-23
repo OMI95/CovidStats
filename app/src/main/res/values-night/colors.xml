@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000000</color>
+    <color name="defaultText">#FFFFFFFF</color>
+    <color name="seperatorView">#FFFFFFFF</color>
+    <color name="colorAppTitle">#FFFFFFFF</color>
+    <color name="bottomItemSelected">#FFFFFFFF</color>
+    <color name="bottomItemUnSelected">#FF424242</color>
+</resources>
